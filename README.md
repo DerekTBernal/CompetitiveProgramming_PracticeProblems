@@ -1,2 +1,2 @@
 # CompetitiveProgramming_PracticeProblems
-Practice Problem &amp; Solutions
+Solutions to provided practice problems
